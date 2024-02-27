@@ -1,4 +1,4 @@
-# norsk_diceware_ordliste
+# Norsk Diceware Ordliste
 
 Ferdig diceware ordliste finnes her: [norsk_diceware_ordliste.txt](norsk_diceware_ordliste.txt)
 
