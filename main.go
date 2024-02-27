@@ -14,7 +14,7 @@ const (
 )
 
 func main() {
-	jsonFilePath := "lemma_expanded.json"
+	jsonFilePath := "lemma.json"
 	outputFilePath := "output.txt"
 
 	jsonData, err := os.ReadFile(jsonFilePath)
